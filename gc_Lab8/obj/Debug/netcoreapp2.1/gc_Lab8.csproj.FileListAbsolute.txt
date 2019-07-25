@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\obj\Debug\netcoreapp2.1\gc_Lab8.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\obj\Debug\netcoreapp2.1\gc_Lab8.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\obj\Debug\netcoreapp2.1\gc_Lab8.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\obj\Debug\netcoreapp2.1\gc_Lab8.AssemblyInfo.cs
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\bin\Debug\netcoreapp2.1\gc_Lab8.deps.json
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\bin\Debug\netcoreapp2.1\gc_Lab8.runtimeconfig.json
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\bin\Debug\netcoreapp2.1\gc_Lab8.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\bin\Debug\netcoreapp2.1\gc_Lab8.dll
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\bin\Debug\netcoreapp2.1\gc_Lab8.pdb
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\obj\Debug\netcoreapp2.1\gc_Lab8.dll
+C:\Users\joshu\source\repos\gc_Lab8\gc_Lab8\obj\Debug\netcoreapp2.1\gc_Lab8.pdb
