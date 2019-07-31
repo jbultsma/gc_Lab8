@@ -9,12 +9,14 @@ namespace gc_Lab8
         public string Name;
         public string Hometown;
         public string Food;
+        public string Band;
 
-        public Student(string name, string homeTown, string favoriteFood)
+        public Student(string name, string homeTown, string favoriteFood, string favoriteBand)
         {
             Name = name;
             Hometown = homeTown;
             Food = favoriteFood;
+            Band = favoriteBand;
         }
 
         public string GetName()
@@ -30,6 +32,11 @@ namespace gc_Lab8
         public string GetFood()
         {
             return Food;
+        }
+
+        public string GetBand()
+        {
+            return Band;
         }
     }
 }
